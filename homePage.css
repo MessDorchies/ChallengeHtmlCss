@@ -1,0 +1,310 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(233, 232, 241, 0.938);
+    font-size: 0%;
+    margin: 0%;
+}
+#logo{
+    width:10% ;
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    display:inline-block ;
+    padding-top: 10px;
+}
+li{
+    display: inline;
+    font-size: 15px;
+    margin: 15px;
+}
+#firstNav{
+    text-align: left;
+    width: 35%;
+    float: left;
+    margin-top: 10px;
+}
+#SecondNav{
+    text-align: right;
+    width: 30%;
+    float: left;
+    margin-top: 10px;
+}
+#title{
+    float: left;
+    width: 100%;
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 35px;
+    margin: 0%;
+}
+#TryItFree{
+    background-color:rgb(68, 157, 245);
+    width: 8%;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    float: left;
+}
+#SignInButton{
+    width: 8%;
+    font-size: 15px;
+    margin-top: 10px;
+    border-bottom-right-radius: 10%;
+    border-top-right-radius: 10%;
+    background-color: white;
+    border-left-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    float: left;
+}
+#FourCells{
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(63,70,85);
+    border-collapse: collapse;
+    color: white;
+}
+#FourCells td{
+    text-align: center;
+    margin: 0%;
+    
+}
+.WithBorder{
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: thin;
+    border-color: black;
+}
+#FourCells td span{
+    font-size: 16px;
+    color: grey;
+}
+.LastCell{
+    padding: 10px 30px 50px 30px;
+}
+.invisible{
+    border-style: none;
+    width: 10%;
+}
+#One{
+    width: 20%;
+    padding-left: 70px;
+    padding-right: 20px;
+}
+#Two{
+    width: 20%;
+    padding: 20px;
+}
+#Three{
+    width: 20%;
+    padding: 20px;
+}
+#Four{
+    width: 20%;
+    padding-right: 60px;
+    padding-left: 20px;
+}
+header{
+    width: 100%;
+    margin: 0%;
+}
+#body1{
+    width: 100%;
+    background-color:rgba(233, 232, 241, 0.938);
+    margin: 0%;
+}
+#p1{
+    margin: 0%;
+    text-align: center;
+    font-size: 20px;
+    padding:40px;
+    line-height: 150%;
+}
+#TryItFor30Day{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    display: flex;
+    background-color:rgb(68, 157, 245);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+#p2{
+    text-align: center;
+    font-size: 13px;
+    padding-bottom: 70px;
+}
+#screen{
+    width: 100%;
+}
+.TitrePerso{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+    font-weight: normal;
+}
+#p3{
+    text-align: center;
+    line-height: 150%;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+#TwoCell{
+    width: 100%;
+    margin-bottom: 60px;
+}
+#TwoCell td{
+    width: 25%;
+    padding: 60px;
+}
+#FirstCell{
+    text-align: center;
+    border-right-style: solid;
+    border-color:grey;
+}
+#SecondCell{
+    text-align: center;
+}
+#SelfHostedIMG{
+    padding-top: 20px;
+}
+#p4{
+    text-align: center;
+}
+#p5{
+    text-align: center;
+}
+p{
+    line-height: 150%;
+    text-align: center;
+}
+#TitreCell{
+    font-weight: normal;
+}
+#TitreCell2{
+    font-weight: normal;
+    padding-top: 15px;
+}
+#PlanButton{
+    background-color:rgb(68, 157, 245);
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+#SelfHostedButton{
+    background-color:rgb(68, 157, 245);
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+.Italique{
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#body3{
+    width: 100%;
+    margin: 0%;
+    background-color: rgb(233, 237, 242);
+}
+#p6{
+    padding-bottom: 30px;
+}
+#Motif{
+    width: 100%;
+}
+#body4{
+    width: 100%;
+    margin: 0%;
+}
+#MyForm{
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    width: 30%;
+    background-color: rgb(233, 237, 242);
+    height: 50%;
+    border-style:solid;
+    border-color: grey;
+    border-radius: 5px;
+    border-width: thin;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+#SubmitButton{
+    background-color:rgb(68, 157, 245);
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-bottom: 10px;
+    width: 40%;
+    padding: 5px;
+    text-align: center;
+}
+.MyInput{
+    width: 100%;
+    line-height: 200%;
+    margin-bottom: 25px;
+}
+#p7{
+    margin-bottom: 30px;
+}
+#p8{
+    color: grey;
+    margin-bottom: 60px;
+}
+#SecurityLink{
+    text-decoration: underline;
+    color: grey;
+}
+footer{
+    width: 100%;
+    margin: 0%;
+    background-color: rgb(63,70,85);
+}
+#LinkTable{
+    width: 100%;
+    padding: 50px;
+    line-height: 150%;
+}
+#LinkTable a{
+    color: whitesmoke;
+}
+th{
+    text-align: left;
+    color: grey;
+}
+#LogoTable{
+    width: 100%;
+    padding-left: 37%;
+    padding-right: 37%;
+}
+#LastP{
+    color: grey;
+    padding-bottom: 10%;
+}
